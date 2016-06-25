@@ -1,0 +1,22 @@
+canvas{
+    border: 1px solid black;
+    cursor: crosshair;
+
+    background-image: url('data/putin.jpg');
+    background-size: cover;
+}
+.ar{
+    position: absolute;
+    right: 0;
+}
+#statistics{
+    border: 1px solid black;
+    width: 500px;
+
+    font: 16pt monospace;
+}
+#statistics p {
+    position: relative;
+    margin: 2px 0.5em 2px 0.5em;
+    padding: 0;
+}
